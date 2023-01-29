@@ -31,7 +31,7 @@ Implementation of three tools in Python using the Scapy library: Port scanner, S
         ```
     
 <p align="center" width="100%">
-    <img width="100%" src="https://raw.githubusercontent.com/alexandreclem/CyberTools-with-Python/master/images/1.png">    
+    <img width="100%" src="https://raw.githubusercontent.com/alexandreclem/CyberTools-with-Python/master/images/3.png">    
 </p>
 
 - Port Scanner
@@ -40,7 +40,7 @@ Implementation of three tools in Python using the Scapy library: Port scanner, S
         $ sudo ./port_scan.py
         ```
 <p align="center" width="100%">
-    <img width="100%" src="https://raw.githubusercontent.com/alexandreclem/CyberTools-with-Python/master/images/3.png">    
+    <img width="100%" src="https://raw.githubusercontent.com/alexandreclem/CyberTools-with-Python/master/images/2.png">    
 </p>
 
 - Sniffing
