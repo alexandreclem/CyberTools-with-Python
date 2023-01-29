@@ -1,0 +1,1762 @@
+Ether / IP / TCP 10.0.2.4:54826 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:54826 A / Padding
+Ether / IP / TCP 10.0.2.4:54456 > 34.107.221.82:http A / Padding
+Ether / IP / TCP 34.107.221.82:http > 10.0.2.4:54456 A / Padding
+Ether / IP / TCP 10.0.2.4:54462 > 34.107.221.82:http A / Padding
+Ether / IP / TCP 34.107.221.82:http > 10.0.2.4:54462 A / Padding
+Ether / IP / TCP 10.0.2.4:54024 > 192.16.58.8:http A / Padding
+Ether / IP / TCP 192.16.58.8:http > 10.0.2.4:54024 A / Padding
+Ether / IP / UDP / DNS Qry "b'www.google.com.'" 
+Ether / IP / UDP / DNS Qry "b'www.google.com.'" 
+Ether / IP / UDP / DNS Ans "142.250.79.36" 
+Ether / IP / UDP / DNS Ans "2800:3f0:4004:80b::2004" 
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http S
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55284 SA / Padding
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http PA / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55284 A / Padding
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https S
+Ether / IP / TCP 142.250.79.36:https > 10.0.2.4:49682 SA / Padding
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https A / Padding
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https PA / Raw
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55284 PA / Raw
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http A / Padding
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https A / Padding
+Ether / IP / TCP 142.250.79.36:https > 10.0.2.4:49682 A / Raw
+Ether / IP / TCP 142.250.79.36:https > 10.0.2.4:49682 PA / Raw
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https A / Padding
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / TCP 10.0.2.4:55298 > 142.251.135.35:http S
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55298 SA / Padding
+Ether / IP / TCP 10.0.2.4:55298 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 10.0.2.4:55298 > 142.251.135.35:http PA / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55298 A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55298 PA / Raw
+Ether / IP / TCP 10.0.2.4:55298 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https PA / Raw
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https PA / Raw
+Ether / IP / TCP 142.250.79.36:https > 10.0.2.4:49682 A / Padding
+Ether / IP / TCP 142.250.79.36:https > 10.0.2.4:49682 PA / Raw
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https A / Padding
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https PA / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / TCP 10.0.2.4:49682 > 142.250.79.36:https PA / Raw
+Ether / IP / TCP 142.250.79.36:https > 10.0.2.4:49682 A / Padding
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP / DNS Qry "b'stackoverflow.com.'" 
+Ether / IP / UDP / DNS Qry "b'cdn.sstatic.net.'" 
+Ether / IP / UDP / DNS Qry "b'cdn.sstatic.net.'" 
+Ether / IP / UDP / DNS Qry "b'www.gravatar.com.'" 
+Ether / IP / UDP / DNS Qry "b'www.gravatar.com.'" 
+Ether / IP / UDP / DNS Qry "b'securepubads.g.doubleclick.net.'" 
+Ether / IP / UDP / DNS Qry "b'securepubads.g.doubleclick.net.'" 
+Ether / IP / UDP / DNS Ans "b'securepubads46.g.doubleclick.net.'" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https S
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 SA / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / UDP / DNS Ans "2a04:fa87:fffe::c000:4902" 
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / UDP / DNS Ans "b'securepubads46.g.doubleclick.net.'" 
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / UDP / DNS Ans "151.101.193.69" 
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / UDP / DNS Ans "192.0.73.2" 
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / UDP / DNS Qry "b'ajax.googleapis.com.'" 
+Ether / IP / UDP / DNS Qry "b'ajax.googleapis.com.'" 
+Ether / IP / UDP / DNS Ans "142.251.134.138" 
+Ether / IP / UDP / DNS Qry "b'cdn.sstatic.net.'" 
+Ether / IP / UDP / DNS Ans "2800:3f0:4004:805::200a" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https S
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https S
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https S
+Ether / IP / TCP 142.251.134.138:https > 10.0.2.4:45442 SA / Padding
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 SA / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 SA / Padding
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 A / Raw
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 A / Raw
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 A / Raw
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 A / Raw
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https PA / Raw
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 PA / Raw
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 142.251.134.138:https > 10.0.2.4:45442 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https A / Padding
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https A / Padding
+Ether / IP / TCP 142.251.134.138:https > 10.0.2.4:45442 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 142.251.134.138:https > 10.0.2.4:45442 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 PA / Raw
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https FA / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 A / Padding
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https FA / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 A / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 PA / Raw
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46498 FA / Padding
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https R / Padding
+Ether / IP / TCP 10.0.2.4:46498 > 151.101.193.69:https R / Padding
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 PA / Raw
+Ether / IP / TCP 151.101.193.69:https > 10.0.2.4:46496 FA / Padding
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https R / Padding
+Ether / IP / TCP 10.0.2.4:46496 > 151.101.193.69:https R / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / UDP / DNS Qry "b'www.googletagmanager.com.'" 
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / UDP / DNS Ans "142.250.79.8" 
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / UDP / DNS Qry "b'www.googletagmanager.com.'" 
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / UDP / DNS Ans "2800:3f0:4004:810::2008" 
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55284 PA / Raw
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http A / Padding
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https S
+Ether / IP / TCP 142.250.79.8:https > 10.0.2.4:56192 SA / Padding
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https A / Padding
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https PA / Raw
+Ether / IP / TCP 142.250.79.8:https > 10.0.2.4:56192 A / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https A / Padding
+Ether / IP / TCP 142.250.79.8:https > 10.0.2.4:56192 PA / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https A / Padding
+Ether / IP / TCP 142.250.79.8:https > 10.0.2.4:56192 PA / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https A / Padding
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https PA / Raw
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https PA / Raw
+Ether / IP / TCP 142.251.134.138:https > 10.0.2.4:45442 A / Padding
+Ether / IP / TCP 142.251.134.138:https > 10.0.2.4:45442 PA / Raw
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https A / Padding
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https PA / Raw
+Ether / IP / TCP 142.251.134.138:https > 10.0.2.4:45442 PA / Raw
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http PA / Raw
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https S
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / TCP 10.0.2.4:45442 > 142.251.134.138:https A / Padding
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 SA / Padding
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https A / Padding
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 A / Padding
+Ether / IP / TCP 10.0.2.4:55300 > 142.251.135.35:http S
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55300 SA / Padding
+Ether / IP / TCP 10.0.2.4:55300 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 10.0.2.4:55300 > 142.251.135.35:http PA / Raw
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55300 A / Padding
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55284 A / Padding
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 PA / Raw
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https A / Padding
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55284 PA / Raw
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http A / Padding
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 A / Padding
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 PA / Raw
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https S
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 SA / Padding
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55300 PA / Raw
+Ether / IP / TCP 10.0.2.4:55300 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 A / Padding
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https A / Padding
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 PA / Raw
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https A / Padding
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https PA / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 A / Padding
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 FA / Padding
+Ether / IP / TCP 10.0.2.4:38064 > 142.250.79.42:https FA / Padding
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38064 A / Padding
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 PA / Raw
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https A / Padding
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 A / Padding
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 PA / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https PA / Raw
+Ether / IP / TCP 142.250.79.8:https > 10.0.2.4:56192 PA / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https A / Padding
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https A / Padding
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 PA / Raw
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https A / Padding
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https PA / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https PA / Raw
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 A / Padding
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https PA / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https PA / Raw
+Ether / IP / TCP 142.250.79.8:https > 10.0.2.4:56192 A / Padding
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 FA / Padding
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https A / Padding
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 142.250.79.8:https > 10.0.2.4:56192 PA / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / TCP 10.0.2.4:56192 > 142.250.79.8:https A / Padding
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 142.250.79.8:https > 10.0.2.4:40711 / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / UDP 10.0.2.4:40711 > 142.250.79.8:https / Raw
+Ether / IP / TCP 10.0.2.4:38076 > 142.250.79.42:https FPA / Padding
+Ether / IP / TCP 142.250.79.42:https > 10.0.2.4:38076 A / Padding
+Ether / IP / UDP / DNS Qry "b'www.google-analytics.com.'" 
+Ether / IP / UDP / DNS Qry "b'www.google-analytics.com.'" 
+Ether / IP / UDP / DNS Ans "b'www-alv.google-analytics.com.'" 
+Ether / IP / UDP / DNS Ans "b'www-alv.google-analytics.com.'" 
+Ether / IP / TCP 10.0.2.4:45692 > 192.16.58.8:http A / Padding
+Ether / IP / TCP 192.16.58.8:http > 10.0.2.4:45692 A / Padding
+Ether / IP / TCP 10.0.2.4:53380 > 23.73.210.152:http A / Padding
+Ether / IP / TCP 23.73.210.152:http > 10.0.2.4:53380 A / Padding
+Ether / IP / TCP 10.0.2.4:54826 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:54826 A / Padding
+Ether / IP / UDP / DNS Qry "b'prod.ingestion-edge.prod.dataops.mozgcp.net.'" 
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 A / Padding
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 A / Padding
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 PA / Raw
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https A / Padding
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 PA / Raw
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / TCP 10.0.2.4:54456 > 34.107.221.82:http A / Padding
+Ether / IP / TCP 34.107.221.82:http > 10.0.2.4:54456 A / Padding
+Ether / IP / TCP 10.0.2.4:54462 > 34.107.221.82:http A / Padding
+Ether / IP / TCP 34.107.221.82:http > 10.0.2.4:54462 A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 A / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / TCP 151.101.65.69:https > 10.0.2.4:34634 PA / Raw
+Ether / IP / TCP 10.0.2.4:34634 > 151.101.65.69:https A / Padding
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / TCP 10.0.2.4:54024 > 192.16.58.8:http A / Padding
+Ether / IP / TCP 192.16.58.8:http > 10.0.2.4:54024 A / Padding
+Ether / IP / TCP 10.0.2.4:35000 > 34.120.115.102:https PA / Raw
+Ether / IP / TCP 34.120.115.102:https > 10.0.2.4:35000 PA / Raw
+Ether / IP / TCP 10.0.2.4:35000 > 34.120.115.102:https A / Padding
+Ether / IP / TCP 10.0.2.4:35000 > 34.120.115.102:https PA / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / UDP 10.0.2.4:50840 > 142.250.79.36:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / TCP 34.120.115.102:https > 10.0.2.4:35000 A / Padding
+Ether / IP / TCP 10.0.2.4:54456 > 34.107.221.82:http PA / Raw
+Ether / IP / UDP 142.250.79.36:https > 10.0.2.4:50840 / Raw
+Ether / IP / TCP 34.107.221.82:http > 10.0.2.4:54456 PA / Raw
+Ether / IP / TCP 10.0.2.4:54456 > 34.107.221.82:http A / Padding
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / TCP 10.0.2.4:54462 > 34.107.221.82:http PA / Raw
+Ether / IP / UDP / DNS Qry "b'ipv4only.arpa.'" 
+Ether / IP / TCP 34.107.221.82:http > 10.0.2.4:54462 PA / Raw
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 10.0.2.4:54462 > 34.107.221.82:http A / Padding
+Ether / IP / UDP / DNS Qry "b'ipv4only.arpa.'" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP / DNS Qry "b'stats.g.doubleclick.net.'" 
+Ether / IP / UDP / DNS Qry "b'stats.g.doubleclick.net.'" 
+Ether / IP / UDP / DNS Ans "64.233.186.154" 
+Ether / IP / UDP / DNS Ans "2800:3f0:4003:c00::9a" 
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https S
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / TCP 64.233.186.154:https > 10.0.2.4:52900 SA / Padding
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https A / Padding
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https PA / Raw
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http PA / Raw
+Ether / IP / TCP 64.233.186.154:https > 10.0.2.4:52900 A / Raw
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https A / Padding
+Ether / IP / TCP 64.233.186.154:https > 10.0.2.4:52900 A / Raw
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https A / Padding
+Ether / IP / TCP 64.233.186.154:https > 10.0.2.4:52900 PA / Raw
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https A / Padding
+Ether / IP / TCP 10.0.2.4:55300 > 142.251.135.35:http PA / Raw
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55284 PA / Raw
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http A / Padding
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55300 A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55300 PA / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / TCP 10.0.2.4:55300 > 142.251.135.35:http A / Padding
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / UDP 10.0.2.4:45299 > 64.233.186.154:https / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https PA / Raw
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https PA / Raw
+Ether / IP / TCP 64.233.186.154:https > 10.0.2.4:52900 A / Padding
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / UDP 10.0.2.4:50363 > 216.239.38.178:https / Raw
+Ether / IP / UDP 216.239.38.178:https > 10.0.2.4:50363 / Raw
+Ether / IP / TCP 64.233.186.154:https > 10.0.2.4:52900 PA / Raw
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https A / Padding
+Ether / IP / TCP 10.0.2.4:52900 > 64.233.186.154:https PA / Raw
+Ether / IP / UDP 64.233.186.154:https > 10.0.2.4:45299 / Raw
+Ether / IP / TCP 10.0.2.4:55298 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55298 A / Padding
+Ether / IP / UDP / DNS Qry "b'amazon.com.'" 
+Ether / IP / UDP / DNS Qry "b'amazon.com.'" 
+Ether / IP / UDP / DNS Ans "52.94.236.248" 
+Ether / IP / UDP / DNS Qry "b'www.amazon.com.'" 
+Ether / IP / UDP / DNS Qry "b'www.amazon.com.'" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 64.233.186.154:https > 10.0.2.4:52900 A / Padding
+Ether / IP / TCP 10.0.2.4:39446 > 52.94.236.248:http S
+Ether / IP / UDP / DNS Ans "b'tp.47cf2c8c9-frontier.amazon.com.'" 
+Ether / IP / UDP / DNS Ans "b'tp.47cf2c8c9-frontier.amazon.com.'" 
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https S
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 SA / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 52.94.236.248:http > 10.0.2.4:39446 SA / Padding
+Ether / IP / TCP 10.0.2.4:39446 > 52.94.236.248:http A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / UDP / DNS Qry "b'prod.ingestion-edge.prod.dataops.mozgcp.net.'" 
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / UDP / DNS Ans 
+Ether / IP / UDP / DNS Qry "b'prod.ingestion-edge.prod.dataops.mozgcp.net.'" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 A / Padding
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / UDP / DNS Qry "b'm.media-amazon.com.'" 
+Ether / IP / UDP / DNS Qry "b'm.media-amazon.com.'" 
+Ether / IP / UDP / DNS Ans "b'tp.c47710ee9-frontier.media-amazon.com.'" 
+Ether / IP / UDP / DNS Ans "b'tp.c47710ee9-frontier.media-amazon.com.'" 
+Ether / IP / UDP / DNS Qry "b'images-na.ssl-images-amazon.com.'" 
+Ether / IP / UDP / DNS Qry "b'images-na.ssl-images-amazon.com.'" 
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / UDP / DNS Ans "b'm.media-amazon.com.'" 
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https S
+Ether / IP / UDP / DNS Ans "b'm.media-amazon.com.'" 
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https S
+Ether / IP / TCP 10.0.2.4:60298 > 13.227.85.211:https S
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 SA / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60298 SA / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 SA / Padding
+Ether / IP / TCP 10.0.2.4:60298 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / UDP / DNS Qry "b'fls-na.amazon.com.'" 
+Ether / IP / UDP / DNS Qry "b'fls-na.amazon.com.'" 
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 PA / Raw
+Ether / IP / TCP 10.0.2.4:60298 > 13.227.85.211:https FA / Padding
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60298 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60298 FA / Padding
+Ether / IP / TCP 10.0.2.4:60298 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https S
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https S
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 A / Padding
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60310 SA / Padding
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60324 SA / Padding
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:40634 > 34.120.208.123:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60324 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60324 PA / Raw
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60324 PA / Raw
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https S
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60310 A / Raw
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60310 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60332 SA / Padding
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60310 PA / Raw
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https S
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https S
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60344 SA / Padding
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60358 SA / Padding
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / UDP / DNS Ans "b'gateway.prod.us-east-1.forester.a2z.com.'" 
+Ether / IP / UDP / DNS Ans "b'gateway.prod.us-east-1.forester.a2z.com.'" 
+Ether / IP / UDP / DNS Qry "b'endpoint.prod.us-east-1.forester.a2z.com.'" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60332 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60332 PA / Raw
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60332 PA / Raw
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60358 A / Raw
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60358 PA / Raw
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60358 PA / Raw
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60344 A / Raw
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60344 A / Raw
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60344 PA / Raw
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60362 > 13.227.85.211:https S
+Ether / IP / TCP 10.0.2.4:60368 > 13.227.85.211:https S
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60362 SA / Padding
+Ether / IP / TCP 10.0.2.4:60362 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60368 SA / Padding
+Ether / IP / TCP 10.0.2.4:60368 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60368 > 13.227.85.211:https FA / Padding
+Ether / IP / TCP 10.0.2.4:60362 > 13.227.85.211:https FA / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60368 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60362 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60362 FA / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60368 FA / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60362 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60368 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 34.120.208.123:https > 10.0.2.4:40634 A / Padding
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https S
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60324 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60310 PA / Raw
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60332 PA / Raw
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 SA / Padding
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60310 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60324 PA / Raw
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60332 PA / Raw
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https FA / Padding
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60332 A / Padding
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https FA / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60310 A / Padding
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60332 FA / Padding
+Ether / IP / TCP 10.0.2.4:60332 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60310 FA / Padding
+Ether / IP / TCP 10.0.2.4:60310 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https FA / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60324 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60324 FA / Padding
+Ether / IP / TCP 10.0.2.4:60324 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60344 PA / Raw
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60358 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60344 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60358 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https FA / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60358 A / Padding
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https FA / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60344 A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60358 FA / Padding
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 10.0.2.4:60358 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60344 FA / Padding
+Ether / IP / TCP 10.0.2.4:60344 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / UDP / DNS Qry "b'assoc-na.associates-amazon.com.'" 
+Ether / IP / UDP / DNS Qry "b'assoc-na.associates-amazon.com.'" 
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / UDP / DNS Ans "72.21.195.65" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https S
+Ether / IP / UDP / DNS Qry "b'ocsp.sca1b.amazontrust.com.'" 
+Ether / IP / UDP / DNS Qry "b'ocsp.sca1b.amazontrust.com.'" 
+Ether / IP / UDP / DNS Ans "54.230.7.230" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / UDP / DNS Qry "b'ocsp.sca1b.amazontrust.com.'" 
+Ether / IP / UDP / DNS Ans 
+Ether / IP / TCP 10.0.2.4:43886 > 54.230.7.230:http S
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 SA / Padding
+Ether / IP / TCP 54.230.7.230:http > 10.0.2.4:43886 SA / Padding
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https A / Padding
+Ether / IP / TCP 10.0.2.4:43886 > 54.230.7.230:http A / Padding
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https PA / Raw
+Ether / IP / TCP 10.0.2.4:43886 > 54.230.7.230:http PA / Raw
+Ether / IP / TCP 54.230.7.230:http > 10.0.2.4:43886 A / Padding
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 A / Padding
+Ether / IP / TCP 54.230.7.230:http > 10.0.2.4:43886 PA / Raw
+Ether / IP / TCP 10.0.2.4:43886 > 54.230.7.230:http A / Padding
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 A / Raw
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https A / Padding
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 A / Raw
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https A / Padding
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 PA / Raw
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https A / Padding
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 PA / Raw
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https A / Padding
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 A / Padding
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 A / Padding
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 A / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60284 PA / Raw
+Ether / IP / TCP 10.0.2.4:60284 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 10.0.2.4:39446 > 52.94.236.248:http FA / Padding
+Ether / IP / TCP 52.94.236.248:http > 10.0.2.4:39446 A / Padding
+Ether / IP / TCP 52.94.236.248:http > 10.0.2.4:39446 FA / Padding
+Ether / IP / TCP 10.0.2.4:39446 > 52.94.236.248:http A / Padding
+Ether / IP / TCP 10.0.2.4:45692 > 192.16.58.8:http A / Padding
+Ether / IP / TCP 192.16.58.8:http > 10.0.2.4:45692 A / Padding
+Ether / IP / TCP 10.0.2.4:53380 > 23.73.210.152:http A / Padding
+Ether / IP / TCP 23.73.210.152:http > 10.0.2.4:53380 A / Padding
+Ether / IP / TCP 10.0.2.4:54826 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:54826 A / Padding
+Ether / IP / TCP 10.0.2.4:54390 > 34.117.237.239:https PA / Raw
+Ether / IP / TCP 34.117.237.239:https > 10.0.2.4:54390 PA / Raw
+Ether / IP / TCP 10.0.2.4:54390 > 34.117.237.239:https A / Padding
+Ether / IP / TCP 10.0.2.4:54024 > 192.16.58.8:http A / Padding
+Ether / IP / TCP 192.16.58.8:http > 10.0.2.4:54024 A / Padding
+Ether / IP / TCP 10.0.2.4:54462 > 34.107.221.82:http A / Padding
+Ether / IP / TCP 34.107.221.82:http > 10.0.2.4:54462 A / Padding
+Ether / IP / TCP 10.0.2.4:54456 > 34.107.221.82:http A / Padding
+Ether / IP / TCP 34.107.221.82:http > 10.0.2.4:54456 A / Padding
+Ether / IP / TCP 10.0.2.4:55284 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55284 A / Padding
+Ether / IP / TCP 10.0.2.4:55300 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55300 A / Padding
+Ether / IP / TCP 10.0.2.4:55298 > 142.251.135.35:http A / Padding
+Ether / IP / TCP 142.251.135.35:http > 10.0.2.4:55298 A / Padding
+Ether / IP / TCP 10.0.2.4:46386 > 34.160.144.191:https PA / Raw
+Ether / IP / TCP 34.160.144.191:https > 10.0.2.4:46386 PA / Raw
+Ether / IP / TCP 10.0.2.4:46386 > 34.160.144.191:https A / Padding
+Ether / IP / TCP 10.0.2.4:43886 > 54.230.7.230:http A / Padding
+Ether / IP / TCP 54.230.7.230:http > 10.0.2.4:43886 A / Padding
+Ether / IP / TCP 10.0.2.4:39908 > 72.21.195.65:https A / Padding
+Ether / IP / TCP 72.21.195.65:https > 10.0.2.4:39908 A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 A / Padding
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https PA / Raw
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 A / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 13.227.85.211:https > 10.0.2.4:60294 PA / Raw
+Ether / IP / TCP 10.0.2.4:60294 > 13.227.85.211:https A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 A / Padding
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https PA / Raw
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https PA / Raw
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 13.227.108.99:https > 10.0.2.4:33496 PA / Raw
+Ether / IP / TCP 10.0.2.4:33496 > 13.227.108.99:https A / Padding
+Ether / IP / TCP 52.3.115.44:https > 10.0.2.4:57058 PA / Raw
+Ether / IP / TCP 10.0.2.4:57058 > 52.3.115.44:https A / Padding
