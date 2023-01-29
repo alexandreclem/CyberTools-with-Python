@@ -14,7 +14,7 @@ Implementation of three tools in Python using the Scapy library: Port scanner, S
 - Tkinter Library
     - Run:
         ```bash
-        $ python -m pip install tkinter
+        $ python -m pip install tk
         ```
 #### Tests Scenarios
 - Virtualized Environment using Virtual Box
