@@ -25,7 +25,7 @@ def discovering_hosts(net_ip):
         ans.summary(lambda s, r: r.sprintf('%Ether.src% %ARP.psrc%'))   
         std_out = buffer.getvalue()        
    
-    print('\n[!] Hosts disponíveis:')
+    print('\n[!] Available Hosts:')
     print('MAC               IP')
     print(f'{std_out}')
    
