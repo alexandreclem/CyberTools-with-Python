@@ -1,7 +1,7 @@
 ## Cybersecurity Tools with Python
 
 ### What does it do?
-Implementation of three tools in Python using the Scapy library: Port scanner, Sniffer, DOS simulator. The tools run specifficaly in unix-based systems, all tests was done using virtual machines with virtualbox NAT network environments.
+Implementation of three tools in Python using the Scapy library: Port scanner, Sniffer and DOS simulator. The tools run specificaly in unix-based systems, all tests were done using virtual machines with VirtualBox NAT network environments.
 
 
 ### How to Use?
