@@ -5,6 +5,17 @@ Implementation of three tools in Python using the Scapy library: Port scanner, S
 
 
 ### How to Use?
+#### Dependencies
+- Scapy Library
+    - Run:
+        ```bash
+        $ python -m pip install scapy
+        ```
+- Tkinter Library
+    - Run:
+        ```bash
+        $ python -m pip install tkinter
+        ```
 #### Tests Scenarios
 - Virtualized Environment using Virtual Box
     - NAT Network
