@@ -17,7 +17,7 @@ Implementation of three tools in Python using the Scapy library: Port scanner, S
         $ python -m pip install tk
         ```
 #### Tests Scenarios
-- Virtualized Environment using Virtual Box
+- Virtualized Environment using VirtualBox
     - NAT Network
         - IP - 10.0.2.0/24
         - xubuntu_1 - IP 10.0.2.5 / Interface enp0s9 (Attacker)
