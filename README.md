@@ -5,6 +5,10 @@ Implementation of three tools in Python using the Scapy library: Port scanner, S
 
 
 ### How to Use?
+#### Clone the Repository
+```bash
+$ git clone https://github.com/alexandreclem/CyberTools-with-Python.git
+```
 #### Dependencies
 - Scapy Library
     - Run:
