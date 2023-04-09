@@ -2,7 +2,7 @@
 
 '''
 Remember to set the NIC(Network Interface Card) to 
-promiscous mode!
+promiscuous mode!
 '''
 
 import sys
